@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ord-1779424401831",
+    "userId": "1",
+    "createdAt": "2026-05-22T04:33:21.831Z",
+    "items": [
+      {
+        "productId": "10",
+        "qty": 1,
+        "title": "Gaming Chair",
+        "price": 199.99
+      }
+    ],
+    "total": 199.99,
+    "status": "placed"
+  },
+  {
+    "id": "ord-1779419117515",
+    "userId": "1",
+    "createdAt": "2026-05-22T03:05:17.515Z",
+    "items": [
+      {
+        "productId": "4",
+        "qty": 1,
+        "title": "1080p Webcam",
+        "price": 49.99
+      },
+      {
+        "productId": "9",
+        "qty": 1,
+        "title": "Desk Lamp",
+        "price": 34.99
+      }
+    ],
+    "total": 84.98,
+    "status": "placed"
+  },
+  {
+    "id": "ord-1779416078115",
+    "userId": "1",
+    "createdAt": "2026-05-22T02:14:38.115Z",
+    "items": [
+      {
+        "productId": "4",
+        "qty": 1,
+        "title": "1080p Webcam",
+        "price": 49.99
+      },
+      {
+        "productId": "8",
+        "qty": 1,
+        "title": "Bluetooth Speaker",
+        "price": 59.99
+      }
+    ],
+    "total": 109.98,
+    "status": "placed"
+  },
+  {
+    "id": "ord-1779415304276",
+    "userId": "1",
+    "createdAt": "2026-05-22T02:01:44.276Z",
+    "items": [
+      {
+        "productId": "1",
+        "title": "Mouse",
+        "price": 29.99,
+        "qty": 1
+      }
+    ],
+    "total": 29.99,
+    "status": "placed"
+  }
+]

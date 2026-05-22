@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.old-spinner-hack {
+  border: 3px solid #eee;
+}

@@ -1,0 +1,2 @@
+# Copy to .npmrc — point at team registry (replace host if not on same machine)
+@org:registry=http://localhost:4873
